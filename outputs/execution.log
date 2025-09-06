@@ -1,0 +1,51 @@
+2025-09-05 19:01:14,585 - Research Agent - INFO - [Research Agent] Researching NVIDIA in Technology industry
+2025-09-05 19:01:20,624 - Standards Agent - INFO - [Standards Agent] Analyzing AI standards and generating use cases for Technology
+2025-09-05 19:01:23,378 - Resource Agent - INFO - [Resource Agent] Collecting resources for 5 use cases
+2025-09-05 19:01:23,381 - Resource Agent - INFO - [Resource Agent] Resource file created: outputs/resources.md
+2025-09-05 19:01:23,383 - Proposal Agent - INFO - [Proposal Agent] Creating final proposal
+2025-09-05 19:01:23,394 - Proposal Agent - INFO - [Proposal Agent] Proposal saved to outputs/proposal.json and outputs/proposal.md
+2025-09-05 22:39:43,603 - Research Agent - INFO - [Research Agent] Researching amazon in aws industry
+2025-09-05 22:39:48,182 - Standards Agent - INFO - [Standards Agent] Analyzing AI standards and generating use cases for aws
+2025-09-05 22:39:50,513 - Resource Agent - INFO - [Resource Agent] Collecting resources for 5 use cases
+2025-09-05 22:39:50,514 - Resource Agent - INFO - [Resource Agent] Resource file created: outputs/resources.md
+2025-09-05 22:39:50,514 - Proposal Agent - INFO - [Proposal Agent] Creating final proposal
+2025-09-05 22:39:50,516 - Proposal Agent - INFO - [Proposal Agent] Proposal saved to outputs/proposal.json and outputs/proposal.md
+2025-09-05 22:48:00,496 - Research Agent - INFO - [Research Agent] Researching amazon in None industry
+2025-09-05 22:48:05,080 - Standards Agent - INFO - [Standards Agent] Analyzing AI standards and generating use cases for None
+2025-09-05 22:48:07,553 - Research Agent - INFO - [Research Agent] Researching tcs in None industry
+2025-09-05 22:48:11,454 - Standards Agent - INFO - [Standards Agent] Analyzing AI standards and generating use cases for None
+2025-09-05 22:48:14,453 - Research Agent - INFO - [Research Agent] Researching tesla in None industry
+2025-09-05 22:48:19,618 - Standards Agent - INFO - [Standards Agent] Analyzing AI standards and generating use cases for None
+2025-09-05 22:48:21,688 - Research Agent - INFO - [Research Agent] Researching oracle in None industry
+2025-09-05 22:48:25,997 - Standards Agent - INFO - [Standards Agent] Analyzing AI standards and generating use cases for None
+2025-09-05 22:48:29,148 - Research Agent - INFO - [Research Agent] Researching microsoft in None industry
+2025-09-05 22:48:33,978 - Standards Agent - INFO - [Standards Agent] Analyzing AI standards and generating use cases for None
+2025-09-05 22:48:36,173 - Research Agent - INFO - [Research Agent] Researching hcl in None industry
+2025-09-05 22:48:41,070 - Standards Agent - INFO - [Standards Agent] Analyzing AI standards and generating use cases for None
+2025-09-05 22:48:43,776 - Research Agent - INFO - [Research Agent] Researching google in None industry
+2025-09-05 22:48:48,428 - Standards Agent - INFO - [Standards Agent] Analyzing AI standards and generating use cases for None
+2025-09-05 22:50:31,233 - Research Agent - INFO - [Research Agent] Researching google in industry industry
+2025-09-05 22:50:36,751 - Standards Agent - INFO - [Standards Agent] Analyzing AI standards and generating use cases for industry
+2025-09-05 22:50:39,083 - Resource Agent - INFO - [Resource Agent] Collecting resources for 5 use cases
+2025-09-05 22:50:39,084 - Resource Agent - INFO - [Resource Agent] Resource file created: outputs/resources.md
+2025-09-05 22:50:39,085 - Proposal Agent - INFO - [Proposal Agent] Creating final proposal
+2025-09-05 22:50:39,087 - Proposal Agent - INFO - [Proposal Agent] Proposal saved to outputs/proposal.json and outputs/proposal.md
+2025-09-05 22:50:39,095 - Research Agent - INFO - [Research Agent] Researching microsoft in industry industry
+2025-09-05 22:50:44,657 - Standards Agent - INFO - [Standards Agent] Analyzing AI standards and generating use cases for industry
+2025-09-05 22:50:46,696 - Resource Agent - INFO - [Resource Agent] Collecting resources for 5 use cases
+2025-09-05 22:50:46,697 - Resource Agent - INFO - [Resource Agent] Resource file created: outputs/resources.md
+2025-09-05 22:50:46,697 - Proposal Agent - INFO - [Proposal Agent] Creating final proposal
+2025-09-05 22:50:46,698 - Proposal Agent - INFO - [Proposal Agent] Proposal saved to outputs/proposal.json and outputs/proposal.md
+2025-09-05 22:55:24,961 - Research Agent - INFO - [Research Agent] Researching google in industry industry
+2025-09-05 22:55:29,426 - Standards Agent - INFO - [Standards Agent] Analyzing AI standards and generating use cases for industry
+2025-09-05 22:55:31,609 - Resource Agent - INFO - [Resource Agent] Collecting resources for 5 use cases
+2025-09-05 22:55:31,611 - Resource Agent - INFO - [Resource Agent] Resource file created: outputs/resources.md
+2025-09-05 22:55:31,612 - Proposal Agent - INFO - [Proposal Agent] Creating final proposal
+2025-09-05 22:55:31,614 - Proposal Agent - INFO - [Proposal Agent] Proposal saved to outputs/proposal.json and outputs/proposal.md
+2025-09-05 22:55:31,621 - Research Agent - INFO - [Research Agent] Researching microsoft in industry industry
+2025-09-05 22:55:36,353 - Standards Agent - INFO - [Standards Agent] Analyzing AI standards and generating use cases for industry
+2025-09-05 22:55:39,042 - Resource Agent - INFO - [Resource Agent] Collecting resources for 5 use cases
+2025-09-05 22:55:39,043 - Resource Agent - INFO - [Resource Agent] Resource file created: outputs/resources.md
+2025-09-05 22:55:39,045 - Proposal Agent - INFO - [Proposal Agent] Creating final proposal
+2025-09-05 22:55:39,049 - Proposal Agent - INFO - [Proposal Agent] Proposal saved to outputs/proposal.json and outputs/proposal.md
+2025-09-06 00:16:27,433 - __main__ - INFO - ✅ All agents initialized successfully
